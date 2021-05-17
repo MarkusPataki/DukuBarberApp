@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DApp</string>
+    <string name="get_button">get_button</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="registerbutton">RegisterButton</string>
+    <string name="loginbutton">LoginButton</string>
+    <string name="DukuBarberApp" />
+    <string name="hello_first_fragment" />
+    <string name="action_settings" />
+    <string name="title_activity_pick_menu">PickMenu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="homebutton">HomeButton</string>
+    <string name="services_button">services_button</string>
+    <string name="book_button">book_button</string>
+    <string name="tuns_button">tuns_button</string>
+</resources>

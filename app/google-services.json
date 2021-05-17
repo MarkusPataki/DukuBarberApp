@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "395838750662",
+    "project_id": "dapp-7245a",
+    "storage_bucket": "dapp-7245a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395838750662:android:f2bc12abe626b97a817cc7",
+        "android_client_info": {
+          "package_name": "com.example.dapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395838750662-o9k5ntcvg6t3l45a96felurfqjt9ahmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0Dprx8oBVXeXzW4YKLGiEq9ASQD2o0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395838750662-o9k5ntcvg6t3l45a96felurfqjt9ahmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395838750662:android:52da5dd105d6ed10817cc7",
+        "android_client_info": {
+          "package_name": "com.example.dukubarberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395838750662-o9k5ntcvg6t3l45a96felurfqjt9ahmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0Dprx8oBVXeXzW4YKLGiEq9ASQD2o0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395838750662-o9k5ntcvg6t3l45a96felurfqjt9ahmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
